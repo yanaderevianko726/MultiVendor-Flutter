@@ -1,6 +1,16 @@
 # MultiVendor-Flutter
 
-A new Flutter application.
+Flutter Multivendor Mobile app for WooCommerce.
+
+Vendor Features:
+
+Vendor Login
+Add Products
+Edit Products
+View and Manage Orders
+Notification For New Order
+Vendor Chat with Customers
+
 
 ## Screenshot
 
