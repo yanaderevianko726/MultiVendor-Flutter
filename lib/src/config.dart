@@ -6,10 +6,10 @@ class Config {
   String consumerSecret = 'cs_69c5275a9ce507Hstjus2548b2b95f9795a814';
 
   //Android MAP API Key
-  //String mapApiKey = 'AIzaSyC1BxltYbbVoNashjudkIBYeLjjMk4whkU7jw';
+  //String mapApiKey = '';
 
   //iOS MAP API Key
-  String mapApiKey = 'AIzaSyC2V9VH3SjGRNshjuabkkAiWUeHt1Yc';
+  String mapApiKey = '';
 
   static Config _singleton = new Config._internal();
 
