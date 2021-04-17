@@ -2,8 +2,8 @@ class Config {
   /* Replace your sire url and api keys */
 
   String url = 'http://example.com';
-  String consumerKey = 'ck_b237d93be5900119aefGhstjd835dd0d280902b';
-  String consumerSecret = 'cs_69c5275a9ce50shHstjus2548b2b95f9795a814';
+  String consumerKey = 'cutomerkeyhere';
+  String consumerSecret = 'customersecretkeyhere';
 
   //Android MAP API Key
   //String mapApiKey = 'AIzaSyC1BxltYbbVoNashjudkIBYeLjjMk4whkU7jw';
