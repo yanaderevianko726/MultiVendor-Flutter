@@ -1,6 +1,16 @@
-# app
+# MultiVendor-Flutter
 
 A new Flutter application.
+
+## Screenshot
+
+|                Screenshot               |                 Screenshot            |               Screenshot              |
+|:---------------------------------------:|:-------------------------------------:|:-------------------------------------:|
+| ![screenshot](screens/screen_1.png)   | ![screenshot](screens/screen_2.png)     | ![screenshot](screens/screen_3.png)   |
+
+|                Screenshot               |                 Screenshot            |               Screenshot              |
+|:---------------------------------------:|:-------------------------------------:|:-------------------------------------:|
+| ![screenshot](screens/screen_4.png)   | ![screenshot](screens/screen_5.png)     | ![screenshot](screens/screen_6.png)   |
 
 ## Getting Started
 
